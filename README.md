@@ -1,2 +1,3 @@
 # Frontend Ödevleri
-### 1.html Ödevi
+### 1. HTMLÖdevi
+### 2. HTML Ödevi
